@@ -1,34 +1,26 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Zair Bulos",
+    "label": "Desarrollador Backend con sólidas habilidades en la resolución de problemas",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "buloszair@gmail.com",
+    "phone": "+54 9 261 205 5766",
+    "url": "https://linkedin.com/in/zairbulos",
+    "summary": "Desarrollador de Software con experiencia en Java, dedicado a la creación de soluciones técnicas eficientes que generan un impacto positivo en el producto. Apasionado por apoyar el crecimiento del equipo en entornos ágiles y colaborativos. Enfrento nuevos retos con entusiasmo, siempre buscando expandir mis conocimientos y habilidades.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Mendoza",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "zairbulos",
+        "url": "https://linkedin.com/in/zairbulos"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "ZairBulos",
+        "url": "https://github.com/ZairBulos"
       }
     ]
   },
